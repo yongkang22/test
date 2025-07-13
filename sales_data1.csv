@@ -1,0 +1,7 @@
+sales_date,product_name,sales_amount,sales_region,customer_id,product_type
+2025 - 12 - 06,aaaa,1,EU,1234567,necklace
+2025 - 11 - 07,abcd,4,EU,9876543,necklace
+2025 - 11 - 23,aabd,5,APAC,1000000,pendant
+2025 - 12 - 26,acbd,6,NA,1000001,bracelet
+2024 - 01 - 01,abcd,1,NA,1234556,necklage
+2024 - 05 - 07,aaaa,7,NA,1234568,pendant
